@@ -3,8 +3,6 @@ Sandbox for different test projects
 
 <hr>
 
-<a href="https://www.yourkit.com/"><img src="https://www.yourkit.com/images/yklogo.png" /></a>
-
 [<img src="https://www.yourkit.com/images/yklogo.png" />](https://www.yourkit.com/)
 
 YourKit supports open source projects with its full-featured Java Profiler.
