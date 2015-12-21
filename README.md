@@ -2,10 +2,8 @@
 Sandbox for different test projects
 
 <div class="alert alert-info">
-  <h4>Blue box message.</h4>
+  Blue box message.
 </div>
-
-#
 
 <hr>
 
