@@ -1,10 +1,6 @@
 # tests
 Sandbox for different test projects
 
-<div class="alert alert-info">
-  Blue box message.
-</div>
-
 > INFO: Trying quotes
 
 <hr>
