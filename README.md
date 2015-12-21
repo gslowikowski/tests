@@ -1,7 +1,7 @@
 # tests
 Sandbox for different test projects
 
-> INFO: Trying quotes
+> **INFO**: Trying quotes
 
 <hr>
 
